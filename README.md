@@ -1,8 +1,8 @@
 # Netflix-clone
 ### [Live Site](https://netflixclone123.herokuapp.com/)
 
-![netflix](https://i.ibb.co/cFNQ31m/Capture10.png)
-![netflix](https://i.ibb.co/7KFw7M0/Capture11.png)
+![netflix](https://i.ibb.co/BZgB3t1/Capture10.png)
+![netflix](https://i.ibb.co/gJC5sqc/Capture11.png)
 
 ## Introduction
 This is a code repository for the corresponding netflix . 
